@@ -1,0 +1,31 @@
+body{
+    background:#f5f7fa;
+    font-family:Arial, sans-serif;
+}
+
+.navbar{
+    background:#009688;
+}
+
+.hero{
+    background:#009688;
+    color:white;
+    text-align:center;
+    padding:100px 20px;
+}
+
+.card{
+    border:none;
+    border-radius:15px;
+    box-shadow:0px 2px 10px rgba(0,0,0,0.1);
+}
+
+.btn-main{
+    background:#009688;
+    color:white;
+}
+
+.btn-main:hover{
+    background:#00796b;
+    color:white;
+}
